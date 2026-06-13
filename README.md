@@ -1,2 +1,3 @@
 # NumPy exercise
-How to used NumPy based on notes by Universidad Anahuac.
+Exercise for homework (Anahuac, Fundamentos de Programacion).
+Using NumPy
